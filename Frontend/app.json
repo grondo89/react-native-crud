@@ -1,0 +1,12 @@
+{
+  "name": "RN-CRUD",
+  "displayName": "RN-CRUD",
+  "expo": {
+    "name": "RN-CRUD",
+    "slug": "RN-CRUD",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
